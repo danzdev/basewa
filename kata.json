@@ -1,0 +1,44 @@
+{
+  "motivasi": [
+    {
+      "id": 1,
+      "pesan": "Kesuksesan adalah hasil dari kerja keras, ketekunan, dan doa yang tulus."
+    },
+    {
+      "id": 2,
+      "pesan": "Jangan takut gagal, karena kegagalan adalah bagian dari perjalanan menuju keberhasilan."
+    },
+    {
+      "id": 3,
+      "pesan": "Perjuangan hari ini adalah kekuatan untuk esok yang lebih baik."
+    },
+    {
+      "id": 4,
+      "pesan": "Bermimpilah setinggi langit, lalu wujudkan dengan usaha yang tak pernah berhenti."
+    },
+    {
+      "id": 5,
+      "pesan": "Ketika kamu merasa ingin menyerah, ingatlah mengapa kamu memulai."
+    },
+    {
+      "id": 6,
+      "pesan": "Hidup adalah tentang bagaimana bangkit setiap kali kamu terjatuh."
+    },
+    {
+      "id": 7,
+      "pesan": "Jangan berhenti ketika lelah, berhentilah ketika tujuanmu tercapai."
+    },
+    {
+      "id": 8,
+      "pesan": "Setiap langkah kecil yang kamu ambil mendekatkanmu pada impian besar."
+    },
+    {
+      "id": 9,
+      "pesan": "Keberanian untuk memulai adalah langkah pertama menuju kemenangan."
+    },
+    {
+      "id": 10,
+      "pesan": "Tidak ada perjuangan yang sia-sia, setiap usaha pasti ada hasilnya."
+    }
+  ]
+}
